@@ -1,6 +1,6 @@
 # Cybersecurity
 
-https://github.com/adon90/pentest_compilation#httpenumeration
+https://github.com/adon90/pentest_compilation
 
-[key]:https://www.hackthebox.com/
+[dasdad]:https://www.hackthebox.com/
 <https://tryhackme.com/>
